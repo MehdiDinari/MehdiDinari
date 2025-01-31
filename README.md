@@ -1,5 +1,7 @@
 <h1 align="center">Hiiii 👋, I'm Mehdi Dinari</h1>
-<h3 align="center">A passionate Python developer | Problem Solver | Data Analyst | Data Scientist from Morocco</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Passionate+Python+Develope;Data+Scientist+📊;Data+Analyst+📈;Problem+Solver+🧠">
+</h1>
 
 - 🔭 I’m currently working on **Stock management**
 
