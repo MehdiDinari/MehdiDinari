@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 👨‍💻 All of my projects are available at [https://portfoliomido.vercel.app](https://port-folio-react-six.vercel.app)
+- 👨‍💻 All of my projects are available at [https://port-folio-react-six.vercel.app](https://port-folio-react-six.vercel.app)
 
 - 💬 Ask me about **Python , data analysis**
 
