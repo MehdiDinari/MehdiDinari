@@ -67,15 +67,15 @@ I'm a passionate **Full Stack Developer** and **Data Scientist** with a strong f
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdi-dinari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiDinari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehdi-dinari&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiDinari&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdi-dinari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiDinari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🌐 Connect With Me
@@ -118,7 +118,7 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehdi-dinari&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MehdiDinari&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
