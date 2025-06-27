@@ -120,7 +120,3 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MehdiDinari&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
-<div align="center">
-  💫 <em>"Code is like humor. When you have to explain it, it's bad."</em> 💫
-</div>
