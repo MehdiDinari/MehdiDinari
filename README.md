@@ -1,23 +1,18 @@
-<!-- ================== HEADER ANIMÉ ================== -->
+<!-- ================== HEADER ================== -->
+
+<h1 align="center">Hi, I'm Mehdi Dinari 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mehdi+Dinari+👋;Full+Stack+Developer+%7C+Python+%7C+Data+Science;ENSA+Fès+Computer+Science+Engineering+Student" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+Data+Science+Enthusiast;ENSA+Fes+Computer+Science+Engineering+Student"
+    alt="Typing animation"
+  />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MehdiDinari&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-<!-- ================== INFOS RAPIDES ================== -->
-
-<h3 align="center">🚀 About Me</h3>
-
-<p align="center">
-  <b>Computer Science Engineering Student @ ENSA Fès</b><br/>
+  <b>Computer Science Engineering Student @ ENSA Fes</b><br/>
   4+ years of Python · Full-Stack Development · Data Science & Machine Learning
 </p>
 
@@ -28,31 +23,37 @@
   <a href="https://github.com/MehdiDinari" target="_blank">GitHub</a>
 </p>
 
+---
+
+<!-- ================== ABOUT ================== -->
+
+<h2 align="center">🚀 About Me</h2>
+
 <p align="center">
-  🌱 I enjoy building scalable backends, smart ML systems and clean frontends.<br/>
-  🧠 Strong focus on problem solving, clean architecture & learning by doing.<br/>
-  🤝 Open to collaboration on Python, backend, ML and DevOps-oriented projects.
+  I enjoy building scalable backends, clean frontends and intelligent data-driven systems.<br/>
+  Strong focus on problem solving, software architecture and learning by doing.
+</p>
+
+<ul>
+  <li>🎓 Computer Science Engineering student at <b>ENSA Fes</b></li>
+  <li>🐍 4+ years of experience with <b>Python</b></li>
+  <li>💻 Interested in <b>backend engineering</b>, <b>ML/AI</b> and <b>DevOps</b></li>
+  <li>🤝 Open to collaboration on Python, backend, ML and cloud-native projects</li>
+</ul>
+
+---
+
+<!-- =============== SEPARATOR =============== -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%" alt="divider"/>
 </p>
 
 ---
 
-<!-- =============== ANIMATED DIVIDER (WAVE) =============== -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="70%" />
-</p>
-
----
-
-<!-- ================== TECH STACK ANIMÉ ================== -->
+<!-- ================== TECH STACK ================== -->
 
 <h2 align="center">🛠 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1200&color=32CD32&center=true&vCenter=true&width=600&lines=Languages;Backend+%26+Databases;Python+Libraries;DevOps+%26+Tools" />
-</p>
-
-<br/>
 
 <div align="center">
 
@@ -63,7 +64,7 @@
     <td align="center"><b>Languages</b></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -86,7 +87,7 @@
     <td align="center"><b>Backend & Databases</b></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -109,10 +110,10 @@
 
 <table>
   <tr>
-    <td align="center"><b>Python Libraries (ML / Data / NLP / CV)</b></td>
+    <td align="center"><b>Python Libraries</b></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -140,13 +141,13 @@
     <td align="center"><b>DevOps, Cloud & Tools</b></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
-      <img src="https://img.shields.io/badge/CI/CD-GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
       <br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -166,36 +167,36 @@
 
 <h2 align="center">📌 Featured Projects</h2>
 
-- 💬 **Real-Time Chat App** · *Python, Django, HTMX, WebSockets*  
+- 💬 <b>Real-Time Chat App</b> · <i>Python, Django, HTMX, WebSockets</i>  
   Real-time messaging platform with public/private rooms and file sharing.
 
-- ✋ **Hand Shape / Sign Detector** · *Python, Scikit-Learn, Mediapipe*  
-  ML-based sign language detection using hand landmarks and Random Forest.
+- ✋ <b>Hand Shape / Sign Detector</b> · <i>Python, Scikit-Learn, Mediapipe</i>  
+  Sign language detection using hand landmarks and Random Forest.
 
-- 🌐 **ADEI Website (ENSA Fès)** · *React, Express*  
-  Official website for the Association of Engineering Students of ENSA Fès.
+- 🌐 <b>ADEI Website (ENSA Fes)</b> · <i>React, Express</i>  
+  Official website for the Association of Engineering Students of ENSA Fes.
 
-- 🎙️ **Vocal Emotion Detector** · *Python, Keras, TensorFlow*  
+- 🎙️ <b>Vocal Emotion Detector</b> · <i>Python, Keras, TensorFlow</i>  
   Deep learning model classifying emotions from short audio clips.
 
-- 🎬 **MovieAdvisor** · *Python, Scikit-Learn, XGBoost*  
+- 🎬 <b>MovieAdvisor</b> · <i>Python, Scikit-Learn, XGBoost</i>  
   Recommendation engine suggesting movies based on user preferences.
 
-- 📦 **Winget Support APIs** · *Java, Micronaut*  
+- 📦 <b>Winget Support APIs</b> · <i>Java, Micronaut</i>  
   Winget-compatible API repository for automated internal package management.
 
 ---
 
-<!-- ================== STATS ANIMÉES ================== -->
+<!-- ================== GITHUB STATS ================== -->
 
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehdiDinari&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MehdiDinari&show_icons=true&theme=radical&hide_border=true" alt="Mehdi's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiDinari&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiDinari&theme=radical&hide_border=true" alt="Mehdi's GitHub streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiDinari&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiDinari&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </div>
 
 ---
@@ -231,5 +232,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MehdiDinari&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=MehdiDinari&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
